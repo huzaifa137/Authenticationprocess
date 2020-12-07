@@ -43,6 +43,7 @@ public class passwordverify {
 			
 		}
 		while((i=d1.readLine())!=null);
+		//we do check using a while loop the password and after we close the buffer class ad file class.
 		
 	d1.close();
 	d2.close();
